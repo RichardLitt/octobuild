@@ -5,27 +5,29 @@ layout: index
 Octobuild
 =========
 
-# The idea is
-
-That we make a list of projects we're working on in October that we're proud of. That's it. Huge passion projects, things at work, what I like to call fiddle projects from Saturday afternoons, non-code projects that have a home online, or that chapter of the book you've been writing for years.
-
-Just saying you're working on a project and telling others, I've found, is monumentally helpful towards *getting it done*. And that's what we're all about. So tell us what we're working on. This is just for October - like [NaNoWriMo](http://nanowrimo.org/), having a timeline helps. Unlike NaNoWriMo, no one is keeping score, and you don't have to finish it or not. I'll check up with you at the end of October to ask how you've done, and post a list of finished projects or work done. 
-
-# The list is
+## The list is
 
 Here:
 
 * [Octobuild](github.com/octobuild) by [RichardLitt](https://github.com/RichardLitt). This is a month long project board where you post what you're working on, and can see what other cool people are working on. That's it. 
 
-# You Can Add To It
+
+## The idea is
+
+That we make a list of projects we're working on in October that we're proud of. That's it. Huge passion projects, things at work, what I like to call fiddle projects from Saturday afternoons, non-code projects that have a home online, or that chapter of the book you've been writing for years.
+
+Just saying you're working on a project and telling others, I've found, is monumentally helpful towards *getting it done*. And that's what we're all about. So tell us what we're working on. This is just for October - like [NaNoWriMo](http://nanowrimo.org/), having a timeline helps. Unlike NaNoWriMo, no one is keeping score, and you don't have to finish it or not. I'll check up with you at the end of October to ask how you've done, and post a list of finished projects or work done. 
+
+
+## You Can Add To It
 
 by going here: https://github.com/RichardLitt/octobuild/edit/gh-pages/README.md. That's all! Add your name and a link and a short paragraph. 
 
-# If you want email updates
+## If you want email updates
 
 [Sign up here.](http://eepurl.com/3O-JL)
 
-# Originally,
+## Originally,
 
 Octobuild was an idea for a month long online hackathon. [@simonv3](https://twitter.com/simonv3) and I would build a large webapp, invite people to join teams, post their ideas, track their progress, give out prizes, and in the process aquire fame, fortune, and fan the flames for open source hacking. 
 
@@ -35,6 +37,10 @@ Octobuild was an idea for a month long online hackathon. [@simonv3](https://twit
 
 *Disclaimer:* Octobuild is in no way affiliated with Github's Octocat, although this is hosted on Github Pages and I think Github is awesome.
 
-# The guy who set this up is
+## This was set up by
 
 [Richard.](http://www.burntfen.com) He's on Twitter as [@richlitt](https://twitter.com/richlitt).
+
+[View this project on Github](https://github.com/RichardLitt/octobuild).
+
+<small>Hosted on GitHub Pages</small>
