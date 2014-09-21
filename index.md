@@ -37,7 +37,7 @@ Octobuild was an idea for a month long online hackathon. [@simonv3](https://twit
 
 [Richard.](http://www.burntfen.com) He's on Twitter as [@richlitt](https://twitter.com/richlitt).
 
-This list is both on [Github](https://github.com/RichardLitt/octobuild) and at [octobuild.com](http://octobuild.com). If you're coming off of Github, I'll try and mirror the master and gh-pages branches, submit to either.
+This list is on [octobuild.com](http://octobuild.com). If you're coming off of Github, I'll try and mirror the master and gh-pages branches; submit PRs to either, preferablly gh-pages.
 
 *Disclaimer:* Octobuild is in no way affiliated with Github's Octocat, although this is hosted on Github Pages and I think Github is awesome.
 
