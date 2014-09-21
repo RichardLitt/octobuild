@@ -11,7 +11,7 @@ layout: index
 
 ## You Can Add To It
 
-[By going here](https://github.com/RichardLitt/octobuild/edit/gh-pages/README.md) and pressing edit. Add your name and a link and a short paragraph. You'll need a Github profile.  
+[By going here](https://github.com/RichardLitt/octobuild/edit/gh-pages/index.md). Add your name and a link and a short paragraph. You'll need a Github profile.  
 
 ## The idea is
 
