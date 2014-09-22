@@ -19,15 +19,17 @@ After all, we like sharing what we're tinkering with, right?
 
 [By going here](https://github.com/RichardLitt/octobuild/edit/gh-pages/index.md). Add your name and a link and a short paragraph. You'll need a Github profile.  
 
+## If you want email updates sometimes
+
+[Sign up here.](http://eepurl.com/3O-JL) I'll check up with you at the end of October to ask how you've done, and post a list of finished projects or work done. I'll also send out semi-weekly reminders to work on your project.
+
 ## The idea is
 
 That we make a list of projects we're working on in October that we're proud of. That's it. Huge passion projects, things at work, what I like to call fiddle projects from Saturday afternoons, non-code projects that have a home online, or that chapter of the book you've been writing for years.
 
 Just saying you're working on a project and telling others, I've found, is monumentally helpful towards **getting it done**. There is actually a named phenomenon for this, called [the Hawthorne effect](https://en.wikipedia.org/wiki/Hawthorne_effect). So tell us what you're working on. This is just for October - like [NaNoWriMo](http://nanowrimo.org/), having a timeline helps. Unlike that, no one is keeping score, and you don't have to finish it or not. 
 
-## If you want email updates sometimes
-
-[Sign up here.](http://eepurl.com/3O-JL) I'll check up with you at the end of October to ask how you've done, and post a list of finished projects or work done. I'll also send out semi-weekly reminders to work on your project.
+At the end of the month, I'll stop taking PRs and freeze it until next year, when it will begin again (hopefully).
 
 ## Why GitHub?
 
