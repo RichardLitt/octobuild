@@ -15,7 +15,7 @@ After all, we like sharing what we're tinkering with, right?
 * [Octobuild](https://github.com/RichardLitt/octobuild) by [RichardLitt](https://github.com/RichardLitt). *I am building this thing.*
 * The Wabi-Sabi of Programming by [@simonv3](http://twitter.com/simonv3). *I'm looking into Wabi-Sabi, and what principles we can take away from it and apply to our programming.*
 
-## You Can Add To It
+## You can add to it
 
 [By going here](https://github.com/RichardLitt/octobuild/edit/gh-pages/index.md). Add your name and a link and a short paragraph. You'll need a Github profile.  
 
