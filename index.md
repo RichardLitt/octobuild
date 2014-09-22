@@ -48,8 +48,8 @@ This didn't pan out. Why? Well, for one, we both have too many projects going on
 
 ## This was set up by
 
-[Richard.](http://www.burntfen.com) He's on Twitter as [@richlitt](https://twitter.com/richlitt). [Simon](https://twitter.com/simonv3) originally had the idea.
+[Richard.](http://www.burntfen.com) He's on Twitter as [@richlitt](https://twitter.com/richlitt). [Simon](https://twitter.com/simonv3) originally had the idea. Octopus by [Adam Liam](http://www.adamliam.com/).
 
 *Disclaimer:* Octobuild is in no way affiliated with GitHub's Octocat, although this is hosted on GitHub Pages and I think GitHub is awesome.
 
-Octopus by [Adam Liam](http://www.adamliam.com/).
+
