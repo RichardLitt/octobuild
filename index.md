@@ -17,7 +17,7 @@ After all, we like sharing what we're tinkering with, right?
 
 ## You can add to it
 
-[By going here](https://github.com/RichardLitt/octobuild/edit/gh-pages/index.md). Add your name and a link and a short paragraph. You'll need a Github profile.  
+[By going here](https://github.com/RichardLitt/octobuild/edit/gh-pages/index.md). Add your name and a link and a short paragraph. You'll need a GitHub profile.  
 
 ## If you want email updates sometimes
 
@@ -35,7 +35,7 @@ At the end of the month, I'll stop taking PRs and freeze it until next year, whe
 
 Because it is a great place to store this because it's a tool we use every day; it is easy to add to; it has a history of being used for [awesome lists](https://github.com/bayandin/awesome-awesomeness); it allows for easy hosting of this website.
 
-This list is on [octobuild.com](http://octobuild.com). If you're coming off of Github, I'll try and mirror the master and gh-pages branches; submit PRs to either, preferablly gh-pages.
+This list is on [octobuild.com](http://octobuild.com). If you're coming off of GitHub, I'll try and mirror the master and gh-pages branches; submit PRs to either, preferablly gh-pages.
 
 ## Originally,
 
@@ -48,8 +48,8 @@ This didn't pan out. Why? Well, for one, we both have too many projects going on
 
 ## This was set up by
 
-[Richard.](http://www.burntfen.com) He's on Twitter as [@richlitt](https://twitter.com/richlitt).
+[Richard.](http://www.burntfen.com) He's on Twitter as [@richlitt](https://twitter.com/richlitt). [Simon](https://twitter.com/simonv3) originally had the idea.
 
-*Disclaimer:* Octobuild is in no way affiliated with Github's Octocat, although this is hosted on Github Pages and I think Github is awesome.
+*Disclaimer:* Octobuild is in no way affiliated with GitHub's Octocat, although this is hosted on GitHub Pages and I think GitHub is awesome.
 
-<small>Hosted on GitHub Pages. Octopus by [Adam Liam](http://www.adamliam.com/).</small>
+Octopus by [Adam Liam](http://www.adamliam.com/).
