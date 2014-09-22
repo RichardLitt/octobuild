@@ -7,7 +7,7 @@ layout: index
 ## The Octobuild list
 
 * [Octobuild](https://github.com/RichardLitt/octobuild) by [RichardLitt](https://github.com/RichardLitt). *This is a month long project board where you post what you're working on, and can see what other cool people are working on. That's it.*
-
+* The Wabi-Sabi of Programming by [@simonv3](http://twitter.com/simonv3). *I'm looking into Wabi-Sabi, and what principles we can take away from it and apply to our programming.*
 
 ## You Can Add To It
 
