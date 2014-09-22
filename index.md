@@ -39,9 +39,9 @@ This list is on [octobuild.com](http://octobuild.com). If you're coming off of G
 
 ## Originally,
 
-Octobuild was an idea for a month long online hackathon. [@simonv3](https://twitter.com/simonv3) and I would build a large webapp, invite people to join teams, post their ideas, track their progress, give out prizes, and in the process aquire fame, fortune, and fan the flames for open source hacking. 
+Octobuild was an idea for a month long online hackathon. [@simonv3](https://twitter.com/simonv3) and I would build a large webapp, invite people to join teams, post their ideas, track their progress, give out prizes, and in the process aquire fame, fortune, and fan the flames for open source hacking.
 
-*This didn't pan out.* Why? Well, for one, we both have too many projects going on. Two, I am not the best at marketing. Have you heard of [IdeaOtter](http://ideaotter.com), a web app for sharing your ideas and recording them for later, targeted towards entrepreneurs? If you have, I'm surprised. Three, we almost got sued for a name clash with Appril, in the Netherlands, which was awkward as we didn't know they existed at all before we started getting phone calls. Four, we both realised that it's not what we love - we love hacking together projects and communities, but not necessarily managing the two. 
+This didn't pan out. Why? Well, for one, we both have too many projects going on. Two, I am not the best at marketing. Have you heard of [IdeaOtter](http://ideaotter.com), a web app for sharing your ideas and recording them for later, targeted towards entrepreneurs? If you have, I'm surprised. Three, we almost got sued (long story). Four, we both realised that it's not what we love - we love hacking together projects and communities, but not necessarily managing the two. 
 
 [@mijustin](https://twitter.com/mijustin) suggested reviving dead domains. So, I decided to do something much simpler. And here we are. I like this more. 
 
