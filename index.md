@@ -27,7 +27,7 @@ After all, we like sharing what we're tinkering with, right?
 
 That we make a list of projects we're working on in October that we're proud of. That's it. Huge passion projects, things at work, what I like to call fiddle projects from Saturday afternoons, non-code projects that have a home online, or that chapter of the book you've been writing for years.
 
-Just saying you're working on a project and telling others, I've found, is monumentally helpful towards **getting it done**. There is actually a named phenomenon for this, called [the Hawthorne effect](https://en.wikipedia.org/wiki/Hawthorne_effect). So tell us what you're working on. This is just for October - like [NaNoWriMo](http://nanowrimo.org/), having a timeline helps. Unlike that, no one is keeping score, and you don't have to finish it or not. 
+Just saying you're working on a project and telling others, I've found, is monumentally helpful towards **getting it done**. There is actually a named phenomenon for this, called [the Hawthorne effect](https://en.wikipedia.org/wiki/Hawthorne_effect). So tell us what you're working on. This is just for October - like [NaNoWriMo](http://nanowrimo.org/), having a timeline helps. Unlike that, no one is keeping score, and finishing is optional. 
 
 At the end of the month, I'll stop taking PRs and freeze it until next year, when it will begin again (hopefully).
 
