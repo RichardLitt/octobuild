@@ -6,7 +6,7 @@ layout: index
 
 ## The Octobuild list
 
-* [Octobuild](https://github.com/octobuild) by [RichardLitt](https://github.com/RichardLitt). *This is a month long project board where you post what you're working on, and can see what other cool people are working on. That's it.*
+* [Octobuild](https://github.com/RichardLitt/octobuild) by [RichardLitt](https://github.com/RichardLitt). *This is a month long project board where you post what you're working on, and can see what other cool people are working on. That's it.*
 
 
 ## You Can Add To It
