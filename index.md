@@ -4,9 +4,15 @@ layout: index
 
 <img src="./octo.png" height="200px" />
 
-## The Octobuild list
+## Octobuild
 
-* [Octobuild](https://github.com/RichardLitt/octobuild) by [RichardLitt](https://github.com/RichardLitt). *This is a month long project board where you post what you're working on, and can see what other cool people are working on. That's it.*
+Is a project board where you, as a developer, can post what you're working on this October, and can see what other cool people are working on. Think of it like a month-long hackathon, online, with no judges, no prizes, no pressure, and no competition. It's just letting other developers know what you're working on so you can see, share, collaborate, hold each other accountable, and be inspired. 
+
+After all, we like sharing what we're tinkering with, right? 
+
+## The list
+
+* [Octobuild](https://github.com/RichardLitt/octobuild) by [RichardLitt](https://github.com/RichardLitt). *I am building this thing.*
 * The Wabi-Sabi of Programming by [@simonv3](http://twitter.com/simonv3). *I'm looking into Wabi-Sabi, and what principles we can take away from it and apply to our programming.*
 
 ## You Can Add To It
@@ -17,12 +23,17 @@ layout: index
 
 That we make a list of projects we're working on in October that we're proud of. That's it. Huge passion projects, things at work, what I like to call fiddle projects from Saturday afternoons, non-code projects that have a home online, or that chapter of the book you've been writing for years.
 
-Just saying you're working on a project and telling others, I've found, is monumentally helpful towards **getting it done**. So tell us what you're working on. This is just for October - like [NaNoWriMo](http://nanowrimo.org/), having a timeline helps. Unlike that, no one is keeping score, and you don't have to finish it or not. 
-
+Just saying you're working on a project and telling others, I've found, is monumentally helpful towards **getting it done**. There is actually a named phenomenon for this, called [the Hawthorne effect](https://en.wikipedia.org/wiki/Hawthorne_effect). So tell us what you're working on. This is just for October - like [NaNoWriMo](http://nanowrimo.org/), having a timeline helps. Unlike that, no one is keeping score, and you don't have to finish it or not. 
 
 ## If you want email updates sometimes
 
 [Sign up here.](http://eepurl.com/3O-JL) I'll check up with you at the end of October to ask how you've done, and post a list of finished projects or work done. I'll also send out semi-weekly reminders to work on your project.
+
+## Why GitHub?
+
+Because it is a great place to store this because it's a tool we use every day; it is easy to add to; it has a history of being used for [awesome lists](https://github.com/bayandin/awesome-awesomeness); it allows for easy hosting of this website.
+
+This list is on [octobuild.com](http://octobuild.com). If you're coming off of Github, I'll try and mirror the master and gh-pages branches; submit PRs to either, preferablly gh-pages.
 
 ## Originally,
 
@@ -36,8 +47,6 @@ Octobuild was an idea for a month long online hackathon. [@simonv3](https://twit
 ## This was set up by
 
 [Richard.](http://www.burntfen.com) He's on Twitter as [@richlitt](https://twitter.com/richlitt).
-
-This list is on [octobuild.com](http://octobuild.com). If you're coming off of Github, I'll try and mirror the master and gh-pages branches; submit PRs to either, preferablly gh-pages.
 
 *Disclaimer:* Octobuild is in no way affiliated with Github's Octocat, although this is hosted on Github Pages and I think Github is awesome.
 
