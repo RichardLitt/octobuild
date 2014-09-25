@@ -8,16 +8,16 @@ layout: index
 
 Is a project board where you, as a developer, can post what you're working on this October, and can see what other cool people are working on. Think of it like a month-long hackathon, online, with no judges, no prizes, no pressure, and no competition. It's just letting other developers know what you're working on so you can see, share, collaborate, hold each other accountable, and be inspired. 
 
-After all, we like sharing what we're tinkering with, right? 
+After all, we like sharing what we're tinkering with, right?
+
+## How to contribute
+
+[By going here](https://github.com/RichardLitt/octobuild/edit/gh-pages/index.md). When you click on that link, you'll be asked to fork the project (if you haven't before). You'll need a github username to do this. Once you create your own fork, you can edit any part of this page, and add or remove from it. We recommend that you add your project to `The list`.
 
 ## The list
 
 * [Octobuild](https://github.com/RichardLitt/octobuild) by [RichardLitt](https://github.com/RichardLitt). *I am building this thing.*
 * The Wabi-Sabi of Programming by [@simonv3](http://twitter.com/simonv3). *I'm looking into Wabi-Sabi, and what principles we can take away from it and apply to our programming.*
-
-## You can add to it
-
-[By going here](https://github.com/RichardLitt/octobuild/edit/gh-pages/index.md). Add your name and a link and a short paragraph. You'll need a GitHub profile.  
 
 ## If you want email updates sometimes
 
