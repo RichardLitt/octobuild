@@ -10,9 +10,9 @@ Is a project board where you, as a developer, can post what you're working on th
 
 After all, we like sharing what we're tinkering with, right?
 
-## How to contribute
+## Contribute
 
-[By going here](https://github.com/RichardLitt/octobuild/edit/gh-pages/index.md). When you click on that link, you'll be asked to fork the project (if you haven't before). You'll need a github username to do this. Once you create your own fork, you can edit any part of this page, and add or remove from it. We recommend that you add your project to `The list`.
+[By going here](https://github.com/RichardLitt/octobuild/edit/gh-pages/index.md). When you click on that link, you'll be asked to fork the project (if you haven't before). You'll need a GitHub username to do this. Once you create your own fork, you can edit any part of this page, and add or remove from it. To be part of the project, **add your project** just like the others below. Submissions are accepted at any time before or during October. And that's it! You're on
 
 ## The list
 
