@@ -18,6 +18,7 @@ After all, we like sharing what we're tinkering with, right?
 
 * [Octobuild](https://github.com/RichardLitt/octobuild) by [RichardLitt](https://github.com/RichardLitt). *I am building this thing.*
 * The Wabi-Sabi of Programming by [@simonv3](http://twitter.com/simonv3). *I'm looking into Wabi-Sabi, and what principles we can take away from it and apply to our programming.*
+* [codexer](https://github.com/bcseda/codexer) by [BrandonSeda](https://twitter.com/brandonseda). *I'm building an ePub authoring app*
 
 ## If you want email updates sometimes
 
