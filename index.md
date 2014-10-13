@@ -16,6 +16,7 @@ After all, we like sharing what we're tinkering with, right?
 
 ## The list
 
+* [GraphMatching](https://github.com/jaredbeck/graph_matching) by [Jared Beck](http://www.jaredbeck.com/). *Maximum cardinality and minimum weighted matchings in undirected graphs.*
 * [Octobuild](https://github.com/RichardLitt/octobuild) by [RichardLitt](https://github.com/RichardLitt). *I am building this thing.*
 * The Wabi-Sabi of Programming by [@simonv3](http://twitter.com/simonv3). *I'm looking into Wabi-Sabi, and what principles we can take away from it and apply to our programming.*
 
