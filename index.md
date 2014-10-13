@@ -10,13 +10,14 @@ Is a project board where you, as a developer, can post what you're working on th
 
 After all, we like sharing what we're tinkering with, right?
 
-## How to contribute
+## Contribute
 
-[By going here](https://github.com/RichardLitt/octobuild/edit/gh-pages/index.md). When you click on that link, you'll be asked to fork the project (if you haven't before). You'll need a github username to do this. Once you create your own fork, you can edit any part of this page, and add or remove from it. We recommend that you add your project to `The list`.
+[By going here](https://github.com/RichardLitt/octobuild/edit/gh-pages/index.md). When you click on that link, you'll be asked to fork the project (if you haven't before). You'll need a GitHub username to do this. Once you create your own fork, you can edit any part of this page, and add or remove from it. To be part of the project, **add your project** just like the others below. Submissions are accepted at any time before or during October. And that's it! You're on
 
 ## The list
 
 * [codexer](https://github.com/bcseda/codexer) by [BrandonSeda](https://twitter.com/brandonseda). *I'm building an ePub authoring app*
+* [GraphMatching](https://github.com/jaredbeck/graph_matching) by [Jared Beck](http://www.jaredbeck.com/). *Maximum cardinality and minimum weighted matchings in undirected graphs.*
 * [Octobuild](https://github.com/RichardLitt/octobuild) by [RichardLitt](https://github.com/RichardLitt). *I am building this thing.*
 * **The Wabi-Sabi of Programming** by [@simonv3](http://twitter.com/simonv3). *I'm looking into Wabi-Sabi, and what principles we can take away from it and apply to our programming.*
 * **Zombie Floss**, the still-in-progress Rails App to accompany *The ~~Zombie~~ Open Source Survival Guide*, by [JaimeLynSchatz](https://github.com/JaimeLynSchatz). Not yet live, so very much WIP. ;)
