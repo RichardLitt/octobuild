@@ -21,6 +21,7 @@ After all, we like sharing what we're tinkering with, right?
 * [Octobuild](https://github.com/RichardLitt/octobuild) by [RichardLitt](https://github.com/RichardLitt). *I am building this thing.*
 * **The Wabi-Sabi of Programming** by [@simonv3](http://twitter.com/simonv3). *I'm looking into Wabi-Sabi, and what principles we can take away from it and apply to our programming.*
 * **Zombie Floss**, the still-in-progress Rails App to accompany *The ~~Zombie~~ Open Source Survival Guide*, by [JaimeLynSchatz](https://github.com/JaimeLynSchatz). Not yet live, so very much WIP. ;)
+* [I19](https://github.com/ariera/i19) by [ariera](https://github.com/ariera/). *I am building a tool to help me smooth the development of Rails apps with i18n support*
 
 
 ## If you want email updates sometimes
