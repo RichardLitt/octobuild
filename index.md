@@ -16,6 +16,7 @@ After all, we like sharing what we're tinkering with, right?
 
 ## The list
 
+* [SeedTip](https://github.com/pauldessert/SeedTip) by [PaulDessert](https://twitter.com/pauldessert). *A fun little side project I'm working on to learn the Google Map API.*
 * [codexer](https://github.com/bcseda/codexer) by [BrandonSeda](https://twitter.com/brandonseda). *I'm building an ePub authoring app*
 * [GraphMatching](https://github.com/jaredbeck/graph_matching) by [Jared Beck](http://www.jaredbeck.com/). *Maximum cardinality and minimum weighted matchings in undirected graphs.*
 * [Octobuild](https://github.com/RichardLitt/octobuild) by [RichardLitt](https://github.com/RichardLitt). *I am building this thing.*
