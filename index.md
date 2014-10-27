@@ -21,6 +21,7 @@ After all, we like sharing what we're tinkering with, right?
 * [Octobuild](https://github.com/RichardLitt/octobuild) by [RichardLitt](https://github.com/RichardLitt). *I am building this thing.*
 * **The Wabi-Sabi of Programming** by [@simonv3](http://twitter.com/simonv3). *I'm looking into Wabi-Sabi, and what principles we can take away from it and apply to our programming.*
 * [Zombie Floss](http://zombie-floss.herokuapp.com), my ever-evolving Rails App to accompany *The ~~Zombie~~ Open Source Survival Guide*, by [JaimeLynSchatz](https://github.com/JaimeLynSchatz).
+* [FML, or Fix My List](https://secret-inlet-5715.herokuapp.com/), also by [JaimeLynSchatz](https://github.com/JaimeLynSchatz) was orginally my entry for the [Rails Rumble hackathon](http://railsrumble.com/), but it was incomplete. I've given myself until the end of October to get it up to an MVP. Let's see if the Hawthorne Effect can keep me going.
 
 
 ## If you want email updates sometimes
