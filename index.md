@@ -6,6 +6,9 @@ layout: index
 
 ## Octobuild
 
+__Octobuild is closed until September, 2015. Come back then!__
+_The contents here are the result of the 2014 session._
+
 Is a project board where you, as a developer, can post what you're working on this October, and can see what other cool people are working on. Think of it like a month-long hackathon, online, with no judges, no prizes, no pressure, and no competition. It's just letting other developers know what you're working on so you can see, share, collaborate, hold each other accountable, and be inspired. 
 
 After all, we like sharing what we're tinkering with, right?
