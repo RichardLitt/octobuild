@@ -1,0 +1,21 @@
+.wrapper {
+  width:860px;
+  margin:0 auto;
+}
+
+.wrapper ul{
+  padding: 2rem 3.5rem;
+  border: 1px solid rgb(219, 219, 219);
+  background-color: rgb(247, 247, 247);
+}
+
+.main-content {
+  margin-top: 2rem;
+
+  h1 {
+    text-align: center;
+    font-size: 6rem;
+    margin: 2rem 0 3rem;
+    text-shadow: 2px 2px rgb(109, 198, 145);
+  }
+}
