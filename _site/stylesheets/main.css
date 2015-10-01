@@ -1,4 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
+* {
+  box-sizing: border-box; }
+
 body {
   font: 18px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #777;
@@ -221,3 +224,22 @@ footer {
     font-size: 6rem;
     margin: 2rem 0 3rem;
     text-shadow: 2px 2px #6dc691; }
+
+.current-projects ul {
+  background-color: transparent;
+  border: none;
+  padding: 0;
+  list-style: none; }
+.current-projects li {
+  width: 30%;
+  min-width: 200px;
+  display: inline-block; }
+.current-projects li a {
+  display: block;
+  padding: 1rem;
+  background-color: #F6F6F6;
+  height: 152px; }
+
+@media print, screen and (max-width: 480px) {
+  .current-projects li {
+    width: 100%; } }
