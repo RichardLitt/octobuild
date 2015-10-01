@@ -48,9 +48,7 @@
 
       var getIssues = function(nextIssuesURL, issues) {
         $.get(nextIssuesURL, function(responseIssues, status, jqxhr) {
-          console.log(jqxhr, jqxhr.getAllResponseHeaders());
           var linksHeader = jqxhr.getResponseHeader('Link');
-          console.log(linksHeader);
           if (linksHeader) {
             var nextIssuesURL = parse_link_header(linksHeader).next;
           }
@@ -74,7 +72,7 @@
           projects_html += template_item({
             project_author: issue.user.login,
             project_title: issue.title,
-            project_url: issue.url
+            project_url: issue.html_url
           });
         });
 
