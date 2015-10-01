@@ -3,11 +3,15 @@ layout: index
 ---
 # Octobuild
 
-Is a project board where you, as a developer, can post what you're working on this October, and can see what other cool projects people are working on. Think of it like a month-long hackathon, online, with no judges, no prizes, no pressure, and no competition. It's just letting other developers know what you're working on so you can see, share, collaborate, hold each other (accountable), and be inspired.
+Is a project board where you can post what you're working on this October, and can see what other cool projects people are working on. Think of it like a month-long hackathon, online, with no judges, no prizes, no pressure, and no competition. It's just letting other developers know what you're working on so you can see, share, collaborate, hold each other (accountable), and be inspired.
 
 ## Participate
 
 Post your project in on [Octobuild's GitHub Issues](https://github.com/RichardLitt/octobuild/issues) list, and once one of us mark it as a project it'll appear here automagically.
+
+## Projects
+
+<div id="projects" class="current-projects"></div>
 
 ## Last year's participants:
 
@@ -15,7 +19,7 @@ Post your project in on [Octobuild's GitHub Issues](https://github.com/RichardLi
 * [codexer](https://github.com/bcseda/codexer) by [BrandonSeda](https://twitter.com/brandonseda). *I'm building an ePub authoring app*
 * [GraphMatching](https://github.com/jaredbeck/graph_matching) by [Jared Beck](http://www.jaredbeck.com/). *Maximum cardinality and minimum weighted matchings in undirected graphs.*
 * [Octobuild](https://github.com/RichardLitt/octobuild) by [RichardLitt](https://github.com/RichardLitt). *I am building this thing.*
-* **The Wabi-Sabi of Programming** by [@simonv3](http://twitter.com/simonv3). *I'm looking into Wabi-Sabi, and what principles we can take away from it and apply to our programming.*
+* _The Wabi-Sabi of Programming_ by [@simonv3](http://twitter.com/simonv3). *I'm looking into Wabi-Sabi, and what principles we can take away from it and apply to our programming.*
 * [Zombie Floss](http://zombie-floss.herokuapp.com), my ever-evolving Rails App to accompany *The ~~Zombie~~ Open Source Survival Guide*, by [JaimeLynSchatz](https://github.com/JaimeLynSchatz).
 * [FML, or Fix My List](https://secret-inlet-5715.herokuapp.com/), also by [JaimeLynSchatz](https://github.com/JaimeLynSchatz) was orginally my entry for the [Rails Rumble hackathon](http://railsrumble.com/), but it was incomplete. I've given myself until the end of October to get it up to an MVP. Let's see if the Hawthorne Effect can keep me going.
 * [I19](https://github.com/ariera/i19) by [ariera](https://github.com/ariera/). *I am building a tool to help me smooth the development of Rails apps with i18n support*
