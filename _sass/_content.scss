@@ -19,3 +19,31 @@
     text-shadow: 2px 2px rgb(109, 198, 145);
   }
 }
+
+.current-projects {
+  ul {
+    background-color: transparent;
+    border: none;
+    padding: 0;
+    list-style: none;
+  }
+
+  li {
+    width: 30%;
+    min-width: 200px;
+    display: inline-block;
+  }
+
+  li a {
+    display: block;
+    padding: 1rem;
+    background-color: #F6F6F6;
+    height: 152px;
+  }
+}
+
+@media print, screen and (max-width: 480px) {
+  .current-projects li {
+    width: 100%;
+  }
+}
