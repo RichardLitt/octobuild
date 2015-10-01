@@ -13,7 +13,11 @@ Octobuild is a project board where you can post what you're working on this Octo
 
 Post your project as a [GitHub issue](https://github.com/RichardLitt/octobuild/issues/new).
 
-Once one of us mark it as a project it'll appear here automagically.
+Once one of us mark it as a project, it'll appear here automagically.
+
+## Participants
+
+_Who will be first to post?_
 
 ## If you want email updates sometimes
 
@@ -46,7 +50,7 @@ This list is on [octobuild.com](http://octobuild.com). If you're coming off of G
 
 ## Who?
 
-Idea by [Richard Littauer]{https://github.com/RichardLitt} and [Simon Vansintjan](http://github.com/simonv3). Octopus by [Adam Liam](http://www.adamliam.com/).
+Idea by [Richard Littauer](https://github.com/RichardLitt) and [Simon Vansintjan](http://github.com/simonv3). Octopus by [Adam Liam](http://www.adamliam.com/).
 
 *Disclaimer:* Octobuild is in no way affiliated with GitHub's Octocat, although this is hosted on GitHub Pages and we think GitHub is awesome.
 
