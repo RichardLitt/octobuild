@@ -1,0 +1,12 @@
+.header {
+  background-color: $green;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.10);
+  border-bottom: 1px solid darken($green, .2);
+  padding: 40px;
+
+  img {
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+  }
+}

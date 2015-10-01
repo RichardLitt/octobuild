@@ -1,0 +1,10 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+$green: #6DC691;
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import "styles",
+        "header",
+        "content";
