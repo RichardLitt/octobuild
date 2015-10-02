@@ -7,7 +7,9 @@ $green: #6DC691;
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "styles",
         "header",
-        "content";
+        "pygment_trac",
+        "content",
+        "responsive";
 
 .lede {
   margin: 0px auto 40px;
