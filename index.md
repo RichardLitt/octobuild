@@ -42,6 +42,9 @@ At the end of the month, we'll stop taking PRs and freeze it until next year, wh
 
 Because it is a great place to store this because it's a tool we use every day; it is easy to add to; it has a history of being used for [awesome lists](https://github.com/bayandin/awesome-awesomeness); it allows for easy hosting of this website.
 
+<a class="github-button" href="https://github.com/RichardLitt/octobuild" data-icon="octicon-star" data-count-href="/RichardLitt/octobuild/stargazers" data-count-api="/repos/RichardLitt/octobuild#stargazers_count">Star</a>
+<a class="github-button" href="https://github.com/RichardLitt/octobuild" data-icon="octicon-git-branch" data-count-href="/RichardLitt/octobuild/network" data-count-api="/repos/RichardLitt/octobuild#forks_count">Fork</a>
+
 This list is on [octobuild.com](http://octobuild.com). The code is on [this repo](http://github.com/RichardLitt/octobuild). PR's encouraged!
 
 ## Who?
