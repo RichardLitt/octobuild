@@ -3,9 +3,7 @@ layout: index
 ---
 # Octobuild
 
-## What?
-
-A month-long no stress hackathon. Tell us what you're working on, get free &#128077;'s.
+<div class="lede">A month-long no-stress hackathon. Share what you're working on, get free &#128077;'s.</div>
 
 Octobuild is a project board where you can post what you're working on this October, and see cool projects other people are working on. Think of it like a long hackathon, virtual and remote, with no judges, no prizes, no pressure, and no competition. It's just letting other developers know what you're working on so you can see, share, collaborate, and be inspired.
 
