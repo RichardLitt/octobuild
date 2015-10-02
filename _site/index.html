@@ -18,6 +18,29 @@
     <meta property="os:repo" content="https://github.com/RichardLitt/octobuild" />
     <meta property="os:rcs_type" content="git" />
     <meta property="os:src" content="git@github.com:RichardLitt/octobuild.git" />
+    <meta property="os:issue" content="https://github.com/RichardLitt/octobuild/issues" />
+    <meta property="os:branch" content="gh-pages" />
+
+    <meta name="author" content="Richard Littauer">
+    <meta name="copyright" content="MIT &copy; Richard Littauer 2015">
+    <meta name="description" content="Octobuild: Build Your October Project">
+
+    <meta property="og:description" content="Octobuild: Build Your October Project" />
+    <meta property="og:url" content="http://octobuild.com/" />
+    <meta property="og:site_name" content="Octobuild" />
+    <meta property="og:title" content="Octobuild" />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="http://octobuild.com/assets/octobuildpus.png" />
+    <meta property="og:image:type" content="image/png" />
+    <meta property="og:image:width" content="800" />
+    <meta property="og:image:height" content="600" />
+
+    <!-- Twitter: card tags -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Octobuild">
+    <meta name="twitter:description" content="Octobuild: Build Your October Project">
+    <meta name="twitter:image" content="http://octobuild.com/assets/octobuildpus.png">
+    <meta name="twitter:url" content="http://octobuild.com">
 
   </head>
   <body>
@@ -100,9 +123,7 @@
 
       var getIssues = function(nextIssuesURL, issues) {
         $.get(nextIssuesURL, function(responseIssues, status, jqxhr) {
-          console.log(jqxhr, jqxhr.getAllResponseHeaders());
           var linksHeader = jqxhr.getResponseHeader('Link');
-          console.log(linksHeader);
           if (linksHeader) {
             var nextIssuesURL = parse_link_header(linksHeader).next;
           }
@@ -126,7 +147,7 @@
           projects_html += template_item({
             project_author: issue.user.login,
             project_title: issue.title,
-            project_url: issue.url
+            project_url: issue.html_url
           });
         });
 
@@ -134,7 +155,7 @@
 
       };
 
-      var issuesUrl = 'https://api.github.com/repos/RichardLitt/octobuild/issues?label=project';
+      var issuesUrl = 'https://api.github.com/repos/RichardLitt/octobuild/issues?labels=project';
       var issues = [];
 
       getIssues(issuesUrl, issues);
