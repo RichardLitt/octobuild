@@ -15,7 +15,7 @@ Post your project as a [GitHub issue](https://github.com/RichardLitt/octobuild/i
 
 <div id="projects" class="current-projects"></div>
 
-### If you want email updates sometimes
+## If you want email updates sometimes
 
 [Sign up here](http://eepurl.com/3O-JL). We'll check up with you at the end of October to ask how you've done, and post a list of finished projects or work done. We'll also send out semi-weekly reminders to work on your project.
 
