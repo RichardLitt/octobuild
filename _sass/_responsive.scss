@@ -48,6 +48,10 @@
     position:static;
   }
 
+  .wrapper {
+    padding: 1rem;
+  }
+
   .main-content h1 {
     font-size: 4rem;
   }
@@ -58,9 +62,6 @@
 }
 
 @media print, screen and (max-width: 480px) {
-  body {
-    padding:15px;
-  }
 
   header ul {
     display:none;
