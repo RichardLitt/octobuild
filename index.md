@@ -1,7 +1,6 @@
 ---
 layout: index
 ---
-# Octobuild
 
 <div class="lede">A month-long no-stress hackathon. Share what you're working on, get free &#128077;'s.</div>
 
