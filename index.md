@@ -46,7 +46,7 @@ This list is on [octobuild.com](http://octobuild.com). The code is on [this repo
 
 ## Who?
 
-Idea by [Richard Littauer](https://github.com/RichardLitt) and [Simon Vansintjan](http://github.com/simonv3). Octopus by Adam Liam.
+Idea by [Richard Littauer](https://github.com/RichardLitt) and [Simon Vansintjan](http://github.com/simonv3). Logo by [Beth Howlett](be.net/bethhowlett).
 
 *Disclaimer:* Octobuild is in no way affiliated with GitHub's Octocat, although this is hosted on GitHub Pages and we think GitHub is awesome.
 
